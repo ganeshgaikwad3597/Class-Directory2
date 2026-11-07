@@ -13,3 +13,7 @@ I want to go my village
 git github session is completed 
 some changes here
 i am hungry
+# Class-Directory2
+I want to join github class
+My self priya phalke
+i am data analyst
